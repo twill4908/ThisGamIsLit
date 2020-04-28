@@ -1,0 +1,13 @@
+{
+"companyName": "TiaraWilliams",
+"productName": "Tiara's Color Switch Game",
+"dataUrl": "RevisedGame.data.unityweb",
+"wasmCodeUrl": "RevisedGame.wasm.code.unityweb",
+"wasmFrameworkUrl": "RevisedGame.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#F8F8F8",
+"cacheControl": {"default": "must-revalidate"}
+}
